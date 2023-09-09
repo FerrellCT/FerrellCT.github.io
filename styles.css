@@ -62,7 +62,12 @@ header nav ul li a {
   font-size: 18px;
   color: #fff;
 }
-
+#hero h3 {
+	img {
+  border: 4px Solid Black;	
+  border-radius: 50%;
+  
+}
 /* Style the other sections */
 section {
   padding: 40px;
